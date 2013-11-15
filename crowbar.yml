@@ -46,6 +46,7 @@ debs:
       - deb http://ubuntu-cloud.archive.canonical.com/ubuntu precise-updates/havana main
       - deb http://ubuntu-cloud.archive.canonical.com/ubuntu precise-proposed/havana main
   pkgs:
+    - libcommons-fileupload-java=1.2.2-1
     - ceilometer-agent-central
     - ceilometer-agent-compute
     - ceilometer-api
